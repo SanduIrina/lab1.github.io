@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Irina Sandu's GitHub Page. You should know Irina changed a course to be here, so she probably won't be in the class list.
 
 You can use the [editor on GitHub](https://github.com/SanduIrina/lab1.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -6,8 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Markdown is the best thing evaa'
 ```markdown
 Syntax highlighted code block
 
